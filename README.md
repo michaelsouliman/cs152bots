@@ -7,6 +7,8 @@ Here is the user report flow (updated from milestone 2): https://drive.google.co
 
 Here is the moderator report flow (also updated from milestone 2): https://drive.google.com/file/d/1c0KqtjVAxpjTJspqT-ncjQdnx6i5d7cl/view?usp=sharing.
 
+To run our bot, you need to have the following tokens.json file within in CS152bots/DiscordBot/ https://drive.google.com/file/d/1jxT7T5PVAdKL6ffp5gFYR0eMqo7Z5KZF/view?usp=sharing.
+
 # CS 152 - Trust and Safety Engineering
 ## Discord Bot Framework Code
 
