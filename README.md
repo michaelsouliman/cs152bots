@@ -1,5 +1,5 @@
 # Submission info
-Here is the link to our poster: https://docs.google.com/presentation/d/1AiYxxsbMB77xeEHNQOQ5DC0UPqDadaC__7wLr-ObRvQ/edit?usp=sharing. 
+Here is the link to our poster: https://drive.google.com/file/d/10uNwuus839QPOE2mbt0TLlVxowTpZHLM/view?usp=sharing
 
 Here is our demo: https://drive.google.com/file/d/1O66QWP9iHOrPAMNCsjHnY5mVb2UH2qKq/view?usp=sharing.
 
