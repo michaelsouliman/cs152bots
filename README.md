@@ -1,3 +1,8 @@
+# Submission info
+Here is the link to our poster: https://docs.google.com/presentation/d/1AiYxxsbMB77xeEHNQOQ5DC0UPqDadaC__7wLr-ObRvQ/edit?usp=sharing. 
+
+Here is our demo: https://drive.google.com/file/d/1O66QWP9iHOrPAMNCsjHnY5mVb2UH2qKq/view?usp=sharing.
+
 # CS 152 - Trust and Safety Engineering
 ## Discord Bot Framework Code
 
