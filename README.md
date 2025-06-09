@@ -3,6 +3,10 @@ Here is the link to our poster: https://docs.google.com/presentation/d/1AiYxxsbM
 
 Here is our demo: https://drive.google.com/file/d/1O66QWP9iHOrPAMNCsjHnY5mVb2UH2qKq/view?usp=sharing.
 
+Here is the user report flow (updated from milestone 2): https://drive.google.com/file/d/19OR3FlDEy9R1efSJP2n8Z-fUnKdTfY86/view?usp=sharing.
+
+Here is the moderator report flow (also updated from milestone 2): https://drive.google.com/file/d/1c0KqtjVAxpjTJspqT-ncjQdnx6i5d7cl/view?usp=sharing.
+
 # CS 152 - Trust and Safety Engineering
 ## Discord Bot Framework Code
 
